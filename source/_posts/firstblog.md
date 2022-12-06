@@ -2,7 +2,7 @@
 title: firstblog
 date: 2022-12-05 22:29:06
 tags: daliy
-categories: dailu
+categories: daily
 ---
 
 ### 搭建Hexo并引入fluid主题
